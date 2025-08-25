@@ -184,6 +184,7 @@ const Skills = () => {
     { name: "JavaScript", description: "Interactive web applications" },
     { name: "SQL", description: "Database design, queries, and optimization" },
     { name: "UI/UX", description: "User-centered design principles" },
+    { name: "reactjs", description: "Declarative, Component-based, Efficient, Flexible, JavaScript, UI" },
     
   ];
 

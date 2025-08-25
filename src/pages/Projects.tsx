@@ -13,12 +13,12 @@ import { motion } from 'framer-motion';
 const Portfolio= () => {
   const projects = [
     {
-      title: 'Job Role Suggestion System',
-      description: 'A sophisticated web-based platform that integrates job board APIs with advanced NLP and machine learning algorithms to provide optimized job matching. Features intelligent recommendation engine that improved job matching accuracy by 30%.',
-      technologies: ['Python', 'NLP', 'Machine Learning', 'Web APIs', 'UI/UX'],
+      title: ' Bhasha Nyaya – AI-Powered Multilingual Legal Assistant',
+      description: 'An AI-powered legal assistant that simplifies complex legal text, translates into multiple Indian languages, and enables voice-based interaction — ensuring accessible, private, and real-time justice for all.',
+      technologies: ['Python', 'Azure OpenAI', 'Bhashini APIs (ASR, TTS, OCR, Translation)', 'Web APIs', 'HTML, CSS, JavaScript (UI/UX)'],
       icon: TrendingUp,
-      highlights: ['30% performance improvement', 'Web-based UI', 'Integrated job board APIs', 'NLP processing'],
-      type: 'Machine Learning'
+      highlights: ['Simplifies legal language', 'Supports 7+ Indian languages', 'Voice input and output', 'OCR for scanned documents','Multilingual legal chatbot'],
+      type: 'Web-based AI Legal Assistant'
     },
     {
       title: 'Hybrid Network Analysis & ML Model',
