@@ -29,12 +29,12 @@ const Portfolio= () => {
       type: 'Data Science'
     },
     {
-      title: 'Python Snake Game',
-      description: 'Classic Snake game implementation featuring smooth gameplay mechanics, dynamic difficulty scaling, comprehensive score tracking, and responsive collision detection. Built with clean, modular code architecture.',
-      technologies: ['Python', 'Turtle Graphics', 'Game Development', 'OOP'],
+      title: 'ResumeMind - AI Resume Reviewer',
+      description: 'Smart AI web app that reviews resumes and suggests best-fit job roles using Google Gemini and GPT.',
+      technologies: ['Python', 'Streamlit', 'Google Gemini', 'OpenAI GPT', 'Docker'],
       icon: Gamepad2,
-      highlights: ['Keyboard controls', 'Score tracking', 'Dynamic difficulty', 'Collision detection'],
-      type: 'Game Development'
+      highlights: ['Recommendations','Analysis','Feedback','Deployment'],
+      type: 'AI / Web App'
     }
   ];
 
